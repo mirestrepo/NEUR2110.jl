@@ -11,3 +11,9 @@ Each homework is organized in its corresponding folder. Common code is organized
 As highlighted by [Julia Computing](https://juliacomputing.com):
 
 "[Julia](https://julialang.org) is the fastest modern open-source language for data science, machine learning and scientific computing. Julia provides the functionality, ease-of-use and intuitive syntax of R, Python, Matlab, SAS or Stata combined with the speed, capacity and performance of C, C++ or Java."
+
+
+## Summary of Homeworks
+
+* Homework 1: Stationary Processes, AR(n), Autocorrelation and Autocovariance
+* Homework 2: Periodogram, Spectograms and Fourier Transfom
