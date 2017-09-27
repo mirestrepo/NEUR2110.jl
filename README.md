@@ -2,9 +2,9 @@
 
 Julia code used to solve homework problems in Statistical Neuroscience course (NEUR2110) at Brown University.
 
-The course uses MATLAB and Python as primari languages and uses MATLAB warm-up code from https://github.com/Mark-Kramer/Case-Studies-Kramer-Eden. In this repository [we](https://github.com/paulstey/statistical_neuroscience) attempt to solve the problems using as much pure Julia as possible. We recogniza that Julia is still a young language and hope this matrial will highlight the sethenghs and areas of improvement when using Julia for statistical neuroscience.
+The course uses MATLAB and Python as the primary languages. There is MATLAB warm-up code available from https://github.com/Mark-Kramer/Case-Studies-Kramer-Eden. In this repository [we](https://github.com/paulstey/statistical_neuroscience) attempt to solve the problems using as much pure Julia as possible. We recognize that Julia is still a young language and hope this material will highlight the strenghts and areas of improvement when using Julia for statistical neuroscience.
 
-Each homework is organized in tits corresponding folder. Common code is organized as a library
+Each homework is organized in its corresponding folder. Common code is organized as a library
 
 ## Why Julia
 
