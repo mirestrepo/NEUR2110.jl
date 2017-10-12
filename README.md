@@ -15,5 +15,7 @@ As highlighted by [Julia Computing](https://juliacomputing.com):
 
 ## Summary of Homeworks
 
-* Homework 1: Stationary Processes, AR(n), Autocorrelation and Autocovariance
-* Homework 2: Periodogram, Spectograms and Fourier Transfom
+* [Homework 1: Stationary Processes, AR(n), Autocorrelation and Autocovariance](https://github.com/mirestrepo/NEUR2110.jl/tree/master/homework1)
+* [Homework 2: Periodogram, Spectograms and Fourier Transfom](https://github.com/mirestrepo/NEUR2110.jl/tree/master/homework2)
+* [Homework 3: Multivariate processes; Power, Coherence and Partial Coherence](https://github.com/mirestrepo/NEUR2110.jl/tree/master/homework3)
+
